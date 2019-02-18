@@ -15,6 +15,18 @@ button{
 h1{
     text-align: center;
     padding-top: 20px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h2{
+    padding: 20px 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p{
+    line-height: 35px;
 }
 
 #container{
@@ -27,7 +39,7 @@ h1{
 }
 
 #instructions{
-    line-height: 1.6;
+    margin-top: 10px;
 }
 
 #random-number{
