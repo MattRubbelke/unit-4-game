@@ -1,5 +1,63 @@
+body{
+    background-image: url("../images/qbkls.png");
+}
+
 img{
     width: 100px;
     float: left;
     margin-left: 10px;
+}
+
+button{
+    background: white;
+}
+
+h1{
+    text-align: center;
+    padding-top: 20px;
+}
+
+#container{
+    margin: 0 auto;
+    width: 960px;
+    background: white;
+    padding-left: 20px;
+    padding-right: 20x;
+    padding-bottom: 20px;
+}
+
+#instructions{
+    line-height: 1.6;
+}
+
+#random-number{
+    width: 100px;
+    height: 100px;
+    background: gray;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 50px;
+    float: left;
+    margin-right: 20px;
+}
+
+#your-number{
+    width: 100px;
+    height: 100px;
+    background: gray;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 50px;  
+}
+
+#scoreboard{
+    margin-left: 20px;
+}
+
+#crystal{
+    clear: both;
 }
